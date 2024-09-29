@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 class Ram {
 	char mem[100 * 1024];
 	int size;
